@@ -1,1 +1,3 @@
+#HTTP 03 is a GET request with a custom cookie with a name of "key" set to the value "please"
 
+curl http://ptl-1702819cc0e8-2e0fc66bc9c2.libcurl.me/pentesterlab --cookie key=please
