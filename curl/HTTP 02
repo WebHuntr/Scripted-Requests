@@ -1,1 +1,3 @@
+# HTTP 02 is a GET request to /pentesterlab with a query parameter set. Parameter name is "key", and the value is "please"
 
+curl http://ptl-ed2df8c44f16-17304db57207.libcurl.me/pentesterlab?key=please
