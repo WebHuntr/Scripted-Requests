@@ -1,0 +1,3 @@
+# HTTP 01 is just a simple GET request to the URI /pentesterlab with a HOST of http://ptl-bf0650a16814-3848ef15cddc.libcurl.me and no special flags set.
+
+curl http://ptl-bf0650a16814-3848ef15cddc.libcurl.me/pentesterlab
