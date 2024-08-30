@@ -1,5 +1,6 @@
 # Scripted-Requests
-This repo contains different request types and formats in different languages
+This repo contains different request types and formats in different languages, the base of each request is from PentesterLab.com and their "HTTP" badge, but I decided to automate these to assist with web application testing in the future.
+I hope this can be useful to someone else out there as well :) 
 
 The "Curl" Folder contains all requests in basic curl format, the corresponding language directories contains the same requests in that languages format.
 
